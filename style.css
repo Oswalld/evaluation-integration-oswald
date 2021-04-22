@@ -130,7 +130,7 @@ header{
 .section-three {
     background-color: var(--Vert-clair);
 
-    padding: 3rem 0 2rem 0;
+    padding: 3rem 1rem 2rem 1rem;
 }
 
 /* Card*/
