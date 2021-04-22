@@ -83,7 +83,7 @@ header{
     width: 100%;
     margin-top: 2rem;
 }
-
+/* All section*/
 .section-one{
     margin-top: 3rem;
 
@@ -132,6 +132,8 @@ header{
 
     padding: 3rem 0 2rem 0;
 }
+
+/* Card*/
 .card{
     display: flex;
     justify-content: center;
@@ -160,6 +162,8 @@ header{
 .card-CTA button{
     padding: 0.8rem 2.5rem 0.8rem 2.5rem;
 }
+
+/* Footer*/
 
 footer{
     display: flex;
